@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/aklebecko/React-todo-demo-ak/static/css/main.557b367b.chunk.css",
-    "main.js": "/aklebecko/React-todo-demo-ak/static/js/main.f3902113.chunk.js",
-    "main.js.map": "/aklebecko/React-todo-demo-ak/static/js/main.f3902113.chunk.js.map",
-    "runtime-main.js": "/aklebecko/React-todo-demo-ak/static/js/runtime-main.b7167a1e.js",
-    "runtime-main.js.map": "/aklebecko/React-todo-demo-ak/static/js/runtime-main.b7167a1e.js.map",
-    "static/js/2.2d0f9acd.chunk.js": "/aklebecko/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js",
-    "static/js/2.2d0f9acd.chunk.js.map": "/aklebecko/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js.map",
-    "index.html": "/aklebecko/React-todo-demo-ak/index.html",
-    "precache-manifest.aa96519bbdbf271c1f7b30fdd64edc38.js": "/aklebecko/React-todo-demo-ak/precache-manifest.aa96519bbdbf271c1f7b30fdd64edc38.js",
-    "service-worker.js": "/aklebecko/React-todo-demo-ak/service-worker.js",
-    "static/css/main.557b367b.chunk.css.map": "/aklebecko/React-todo-demo-ak/static/css/main.557b367b.chunk.css.map",
-    "static/js/2.2d0f9acd.chunk.js.LICENSE.txt": "/aklebecko/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js.LICENSE.txt"
+    "main.css": "/React-todo-demo-ak/static/css/main.557b367b.chunk.css",
+    "main.js": "/React-todo-demo-ak/static/js/main.1de55fbe.chunk.js",
+    "main.js.map": "/React-todo-demo-ak/static/js/main.1de55fbe.chunk.js.map",
+    "runtime-main.js": "/React-todo-demo-ak/static/js/runtime-main.aaf85081.js",
+    "runtime-main.js.map": "/React-todo-demo-ak/static/js/runtime-main.aaf85081.js.map",
+    "static/js/2.2d0f9acd.chunk.js": "/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js",
+    "static/js/2.2d0f9acd.chunk.js.map": "/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js.map",
+    "index.html": "/React-todo-demo-ak/index.html",
+    "precache-manifest.5e7b6359d686b8c943cb0c13331da929.js": "/React-todo-demo-ak/precache-manifest.5e7b6359d686b8c943cb0c13331da929.js",
+    "service-worker.js": "/React-todo-demo-ak/service-worker.js",
+    "static/css/main.557b367b.chunk.css.map": "/React-todo-demo-ak/static/css/main.557b367b.chunk.css.map",
+    "static/js/2.2d0f9acd.chunk.js.LICENSE.txt": "/React-todo-demo-ak/static/js/2.2d0f9acd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7167a1e.js",
+    "static/js/runtime-main.aaf85081.js",
     "static/js/2.2d0f9acd.chunk.js",
     "static/css/main.557b367b.chunk.css",
-    "static/js/main.f3902113.chunk.js"
+    "static/js/main.1de55fbe.chunk.js"
   ]
 }
